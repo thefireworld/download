@@ -1,7 +1,7 @@
 {
   "service": {
     "how": ["download"],
-    "download_url": "https://github.com/thefireworld/service/releases/download/v1.0/fireservice.exe"
+    "download_url": "https://github.com/thefireworld/release/releases/download/service-v1.0/fireservice.exe"
   },
   "settings": {
     "how": ["download", "unzip"],
