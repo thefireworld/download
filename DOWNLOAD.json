@@ -1,7 +1,7 @@
 {
   "service": {
     "how": ["download", "createStartScript"],
-    "download_url": "https://github.com/thefireworld/release/releases/download/service-v1.0/fireservice.exe"
+    "download_url": "https://github.com/thefireworld/release/releases/download/service-v1.0/fireservice.exe",
     "start_script_content": "start /B fireservice.exe"
   },
   "settings": {
