@@ -7,7 +7,7 @@
   },
   "settings": {
     "how": ["download", "unzip"],
-    "download_url": "https://github.com/thefireworld/release/releases/download/settings-v0.1.2/settings.zip",
-    "version": "v0.1.2"
+    "download_url": "https://github.com/thefireworld/release/releases/download/settings-v0.1.3/settings.zip",
+    "version": "v0.1.3"
   }
 }
