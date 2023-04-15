@@ -1,13 +1,23 @@
 {
   "service": {
     "how": ["download", "createStartScript"],
-    "download_url": "https://github.com/thefireworld/release/releases/download/service-v1.1/fireservice.exe",
+    "download_url": "https://github.com/thefireworld/download/releases/download/230415/fireservice.exe",
     "start_script_content": "start /B fireservice.exe",
-    "version": "v1.1"
+    "version": "v2.0"
   },
   "settings": {
     "how": ["download", "unzip"],
-    "download_url": "https://github.com/thefireworld/release/releases/download/settings-v0.1.3/settings.zip",
-    "version": "v0.1.3"
+    "download_url": "https://github.com/thefireworld/download/releases/download/230415/settings.zip",
+    "version": "230415"
+  },
+  "login": {
+    "how": ["download", "unzip"],
+    "download_url": "https://github.com/thefireworld/download/releases/download/230415/login.zip",
+    "version": "230415"
+  },
+  "dingdong": {
+    "how": ["download", "unzip"],
+    "download_url": "https://github.com/thefireworld/download/releases/download/230415/dingdong.zip",
+    "version": "230415"
   }
 }
